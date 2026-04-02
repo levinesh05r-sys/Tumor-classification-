@@ -4,7 +4,6 @@ This project is a Computer Vision-based Brain Tumor Classification System develo
 **The model can identify:**
 -Pituitary Tumor
  -Meningioma
- -Glioma
  -No Tumor
  
  **Features**
