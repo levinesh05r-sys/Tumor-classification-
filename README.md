@@ -56,4 +56,7 @@ This project is a Computer Vision-based Brain Tumor Classification System develo
 
 <img width="606" height="957" alt="Screenshot 2026-03-30 225730" src="https://github.com/user-attachments/assets/d040fb45-d77f-4464-982f-9688e53db7d3" />
 
+<img width="1920" height="1200" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/79a4a6a1-cc36-461e-a88a-d130f4f26ae3" />
+
+
 
